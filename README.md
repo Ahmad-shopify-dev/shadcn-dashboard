@@ -94,3 +94,5 @@ Free to use.
 ## Author
 
 StackWiseDev
+
+<img width="1593" height="1031" alt="shadcn UI" src="https://github.com/user-attachments/assets/a5fdb413-07d5-41fa-bd7c-152b16123f58" />
